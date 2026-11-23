@@ -1,0 +1,16 @@
+# Configurações pessoais e credenciais
+.env
+.env.*
+!.env.example
+config.toml
+.mcp.json
+*.local.json
+*.local.toml
+*.pem
+*.key
+credentials*.json
+token*.json
+work/
+.codex/
+node_modules/
+__pycache__/

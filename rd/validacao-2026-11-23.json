@@ -1,0 +1,496 @@
+{
+  "checked_at": "2026-11-23",
+  "method": "Consultas MCP de leitura; sem consultar ou exportar a base de contatos.",
+  "crm_funnels": [
+    {
+      "id": "61fbd8c4637c07001166abdc",
+      "name": "Funil Padrão"
+    },
+    {
+      "id": "62261a26d7b080000cfcf760",
+      "name": "Funil Empresas"
+    },
+    {
+      "id": "62261a4363a1f400142be7ba",
+      "name": "Funil Convênios"
+    },
+    {
+      "id": "6227ab6d2d19fc000f5e9b87",
+      "name": "Funil Tradução/Versão/Intérprete"
+    },
+    {
+      "id": "6227ab99bfc674000ef69595",
+      "name": "Funil PRATICA/STUDIO"
+    },
+    {
+      "id": "64a7454bc257900013cc32c9",
+      "name": "Viaggio In Italia"
+    },
+    {
+      "id": "64da8fdcb917d500172b291d",
+      "name": "ITALCAM"
+    },
+    {
+      "id": "64f7b4b7a2b69e000dcfc6b2",
+      "name": "BAMBINI"
+    },
+    {
+      "id": "64f7b4d8bf62df00180fb98a",
+      "name": "RAGAZZI"
+    },
+    {
+      "id": "6696bf6a4d06480016194374",
+      "name": "PRINCIPAL"
+    },
+    {
+      "id": "6a749837681b2c0032800538",
+      "name": "INTERESSE FUTURO"
+    },
+    {
+      "id": "6a973084b761ac00247df822",
+      "name": "Ex-alunos"
+    }
+  ],
+  "principal_stages": [
+    {
+      "id": "6696bf6a4d06480016194376",
+      "name": "Cadastro",
+      "order": 1
+    },
+    {
+      "id": "6696bf6a4d06480016194377",
+      "name": "Interação",
+      "order": 2
+    },
+    {
+      "id": "6a2c31b73a21210020d4fec2",
+      "name": "D1_ AUTO",
+      "order": 2
+    },
+    {
+      "id": "678658c33003c600147b46b9",
+      "name": "Em Negociação",
+      "order": 3
+    },
+    {
+      "id": "6a635f75a4cefd001d46e835",
+      "name": "D2_AUTO",
+      "order": 3
+    },
+    {
+      "id": "6a635f85edbece001f9aae96",
+      "name": "D3_AUTO",
+      "order": 3
+    },
+    {
+      "id": "6a4e5a47da8089001de3fc63",
+      "name": "D4_AUTO",
+      "order": 4
+    },
+    {
+      "id": "680be8559c686600202d9d54",
+      "name": "Em aguardo",
+      "order": 5
+    },
+    {
+      "id": "688cdb25171728001c21cf26",
+      "name": "Fase 3",
+      "order": 6
+    },
+    {
+      "id": "6696bf6a4d06480016194378",
+      "name": "NÂO vendidos / Perdas",
+      "order": 7
+    },
+    {
+      "id": "6696bf6a4d06480016194379",
+      "name": "Matrícula",
+      "order": 8
+    },
+    {
+      "id": "6696bf6a4d0648001619437a",
+      "name": "Disparo Manual",
+      "order": 9
+    }
+  ],
+  "marketing_fields": [
+    {
+      "uuid": "059ea2d6-39bc-4557-93e4-f393a23f4b96",
+      "api_identifier": "mobile_phone",
+      "label": "Celular",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "290e963c-389f-4368-91c8-e3c1d71b8764",
+      "api_identifier": "facebook",
+      "label": "Facebook",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "29a2f7d0-5dc6-4466-9af7-bd9bf4244d84",
+      "api_identifier": "twitter",
+      "label": "Twitter",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "9bfa0d04-ede1-4f6b-8f66-f4aa7ccda1ec",
+      "api_identifier": "state",
+      "label": "Estado",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "25ebfce7-8ecd-4847-8057-9ac21d20b784",
+      "api_identifier": "city",
+      "label": "Cidade",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "55ac8223-9c31-4db1-98f8-9879c44efb2e",
+      "api_identifier": "bio",
+      "label": "Biografia",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "fdeba6ec-f1cf-4b13-b2ea-e93d47c0d828",
+      "api_identifier": "name",
+      "label": "Nome",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "cdf28cd9-e387-4e42-84e6-e33e87d0c581",
+      "api_identifier": "country",
+      "label": "País",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "e326d09f-2ed5-4c3c-bf80-a76f91fee3f6",
+      "api_identifier": "birthdate",
+      "label": "Data de aniversário",
+      "custom_field": false,
+      "data_type": "TIMESTAMP"
+    },
+    {
+      "uuid": "f0a3dd8a-f044-432c-a1ce-1bb559d6edf1",
+      "api_identifier": "phone",
+      "label": "Telefone Principal",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "f0a3dd8a-f044-432c-a1ce-1bb559d6edf4",
+      "api_identifier": "email",
+      "label": "Email",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "9aad7414-b90a-48e3-9d20-90fd33820dbf",
+      "api_identifier": "website",
+      "label": "Website",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "592ffdf6-4a4a-4b9f-9539-f88e9f832203",
+      "api_identifier": "linkedin",
+      "label": "Linkedin",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "e978fe0a-50ed-4384-aa71-5bbf52f20485",
+      "api_identifier": "job_title",
+      "label": "Cargo",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "f3f2f760-535b-44d4-97ad-9fcc924bfa77",
+      "api_identifier": "personal_phone",
+      "label": "Telefone",
+      "custom_field": false,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "ff720b63-8f20-42a5-aa00-bb0ce50388be",
+      "api_identifier": "tags",
+      "label": "Tags",
+      "custom_field": false,
+      "data_type": "SET"
+    },
+    {
+      "uuid": "2c576f4d-6415-483c-ad6e-0278d65e7144",
+      "api_identifier": "cf_plug_opportunity_score",
+      "label": "Qualificação da Oportunidade no CRM (última atualização)",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "4c97db56-56be-429b-9601-d54c0c77c0c7",
+      "api_identifier": "cf_curso_de_interesse",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "d3503f9a-9a68-4683-a804-7bdb0164ab35",
+      "api_identifier": "cf_cursos_regulares_2023_abr",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "b3b0b677-73d6-4675-acb0-c4d79e747b24",
+      "api_identifier": "cf_intensivo_julho",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "eaa5cf09-5000-494d-9d37-a6490ac25be4",
+      "api_identifier": "cf_plug_deal_pipeline",
+      "label": "Funil de vendas no CRM (última atualização)",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "93ffdb3b-e6a5-4a39-98f6-9d76e49a33bf",
+      "api_identifier": "cf_plug_opportunity_origin",
+      "label": "Origem da Oportunidade no CRM (última atualização)",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "03ad4c1d-1174-4a04-b9ff-8d148a5b57ac",
+      "api_identifier": "cf_voce_procura_investir_num_curso",
+      "label": "voce procura investir num curso?",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "0e810468-fd46-4791-9b98-c9b1d7170f78",
+      "api_identifier": "cf_plug_funnel_stage",
+      "label": "Etapa do funil de vendas no CRM (última atualização)",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "3c554f72-e7a2-436d-b3e0-e2818b281bd4",
+      "api_identifier": "cf_cursos_regulares_novembro_2022",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "1f929579-2b26-4f2d-9edd-3b491b64c618",
+      "api_identifier": "cf_plug_contact_owner",
+      "label": "Nome do responsável pela Oportunidade no CRM (última atualização)",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "9800810b-2ee5-42ab-a4be-250732c563bb",
+      "api_identifier": "cf_curso_cils_de_interesse",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "fbaafe4d-9225-4d03-976e-3c4b93032ec9",
+      "api_identifier": "cf_plug_opportunity_value",
+      "label": "Valor total da Oportunidade no CRM (última atualização)",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "858c8db1-4879-48d4-b860-5771faa2eaad",
+      "api_identifier": "cf_nome_completo",
+      "label": "Nome",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "7ced81dc-c644-4279-a6ca-dffd225c11df",
+      "api_identifier": "cf_e_mail_pessoal",
+      "label": "E-mail",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "32f0d039-908e-4a10-946d-ea662481ed25",
+      "api_identifier": "cf_italiano_viagem",
+      "label": "Qual o seu objetivo em aprender italiano?",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "85d9c427-a10c-4407-8042-596ee3d7e456",
+      "api_identifier": "cf_utm_source",
+      "label": "utm_source",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "ea373028-c53e-4342-85a1-cdc935abbd49",
+      "api_identifier": "cf_telefone_celular",
+      "label": "Telefone",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "d1065ca6-fc31-4786-ba31-57277b2771ea",
+      "api_identifier": "cf_utm_medium",
+      "label": "utm_medium",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "fa82ede7-0bec-45fc-8932-2031a929fc6a",
+      "api_identifier": "cf_cursos_regulares_julho_2022",
+      "label": "Curso de Interesse Regulares 2024",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "c3c8dead-d3d0-4fd4-8a43-f58cbc5eaa95",
+      "api_identifier": "cf_plug_lost_reason",
+      "label": "Motivo de Perda no RD Station CRM",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "fae30882-5d99-416b-927d-e0c8115e0fe5",
+      "api_identifier": "cf_cursos_regulares_setembro_2022",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "cb87c404-aeab-4c33-b590-568fe6ef242f",
+      "api_identifier": "cf_voce_tem_como_fazer_o_curso_presencialmente_em_santo_and",
+      "label": "presencial",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "5673143b-995d-42bf-82de-96ce490fbca2",
+      "api_identifier": "cf_utm_content",
+      "label": "utm_content",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "0c5956ce-e666-4fe5-8eb4-36fb62f64ac1",
+      "api_identifier": "cf_cursos_regulares_2025",
+      "label": "Curso que me interessa",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "a094a6a6-253e-4ca4-95a3-62bcce483579",
+      "api_identifier": "cf_objetivo",
+      "label": "Qual o objetivo",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "c2463807-c4fa-4d1b-9fd4-a746f6cd00e4",
+      "api_identifier": "cf_lei_de_protecao_de_dados",
+      "label": "Lei de Proteção de Dados",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "af07a1fd-44e4-410f-91eb-85b6ce6dcf70",
+      "api_identifier": "cf_v4_lp",
+      "label": "Fonte do lead",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "e25bc516-b468-447e-861b-05288a74a0a1",
+      "api_identifier": "cf_meu_curso_de_interesse",
+      "label": "Meu Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "0a10c837-99cc-465f-94ff-122263d66682",
+      "api_identifier": "cf_interesse",
+      "label": "Interesse",
+      "custom_field": true,
+      "data_type": "STRING[]"
+    },
+    {
+      "uuid": "0863de45-14e4-44fe-9784-39a412dec8a0",
+      "api_identifier": "cf_cursos_regulares_2023_fev",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "57517e6b-c3a0-4556-92c3-3a1541a7bd23",
+      "api_identifier": "cf_qual_e_o_seu_principal_objetivo_com_o_italiano",
+      "label": "Qual é o seu principal objetivo com o italiano?",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "ac73d2d5-312d-4cdb-b5bb-53ee9751bd0b",
+      "api_identifier": "cf_cursos_agosto_2023",
+      "label": "Curso de interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "8d240a2b-d2a6-4b84-9b56-62af1aa0e81e",
+      "api_identifier": "cf_utm_campaing",
+      "label": "utm_campaing",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "21061fd4-5b8d-43a6-a2af-3dd7caf090a8",
+      "api_identifier": "cf_spazio_italiano",
+      "label": "CRM Spazio Italiano",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "90b35792-7e38-4e28-866b-4de309ca4138",
+      "api_identifier": "cf_meu_interesse_0",
+      "label": "Meu Interesse:",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "21021bef-cbaa-4fdf-b656-e109025aaf02",
+      "api_identifier": "cf_cursos_regulares_outubro_2022",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "a536dd6e-03a1-48e3-a6eb-52343c010331",
+      "api_identifier": "cf_meu_interesse",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    },
+    {
+      "uuid": "dc4ec89b-1fe4-40d8-b657-9206b15b4e60",
+      "api_identifier": "cf_cursos_regulares_2023_jan",
+      "label": "Curso de Interesse",
+      "custom_field": true,
+      "data_type": "STRING"
+    }
+  ]
+}

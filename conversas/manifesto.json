@@ -1,0 +1,314 @@
+{
+  "exported_at": "2026-11-23",
+  "scope": "Todos os chats de usuário listados no projeto local Spazio Italiano, inclusive arquivados. Exclui threads internas de análise, revisão automática e subagentes.",
+  "chats": [
+    {
+      "id": "01a0c4d3-0fd0-7741-9ccc-bbf68fabb13f",
+      "title": "CHECKIN",
+      "path": "conversas/checkin--01a0c4d3-0fd0-7741-9ccc-bbf68fabb13f.md",
+      "turns": 4,
+      "messages": 16,
+      "pages": 1,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "title": "PLANILHAS DE LEAD",
+      "path": "conversas/planilhas-de-lead--01a0cff4-fdb8-7ee2-9b3d-50e30835bc42.md",
+      "turns": 57,
+      "messages": 144,
+      "pages": 6,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a0d07f-c570-7f91-a5fa-f8b50055e059",
+      "title": "MCP RD STATION",
+      "path": "conversas/mcp-rd-station--01a0d07f-c570-7f91-a5fa-f8b50055e059.md",
+      "turns": 45,
+      "messages": 159,
+      "pages": 5,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a0d0ab-08f7-7610-a4fe-7f500894f7ac",
+      "title": "Testar conexões RD Marketing e CRM",
+      "path": "conversas/testar-conexoes-rd-marketing-e-crm--01a0d0ab-08f7-7610-a4fe-7f500894f7ac.md",
+      "turns": 1,
+      "messages": 3,
+      "pages": 1,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": true
+    },
+    {
+      "id": "01a0f89b-5aea-7280-995b-d049d4ee1a9e",
+      "title": "DASHBOARD",
+      "path": "conversas/dashboard--01a0f89b-5aea-7280-995b-d049d4ee1a9e.md",
+      "turns": 56,
+      "messages": 187,
+      "pages": 6,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a0f8ac-bd7b-7181-a5cf-192add77e410",
+      "title": "GPT ADS",
+      "path": "conversas/gpt-ads--01a0f8ac-bd7b-7181-a5cf-192add77e410.md",
+      "turns": 8,
+      "messages": 33,
+      "pages": 1,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a10e95-e80c-7743-ba10-909a0c4c1181",
+      "title": "Subir criativos na Meta Ads",
+      "path": "conversas/subir-criativos-na-meta-ads--01a10e95-e80c-7743-ba10-909a0c4c1181.md",
+      "turns": 29,
+      "messages": 106,
+      "pages": 3,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a1359b-2021-73e3-939b-4adb4647b845",
+      "title": "Localizar evidências",
+      "path": "conversas/localizar-evidencias--01a1359b-2021-73e3-939b-4adb4647b845.md",
+      "turns": 3,
+      "messages": 11,
+      "pages": 1,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a1408f-480d-79f0-a3df-bd1c2e6c002a",
+      "title": "Replicar o Tintin",
+      "path": "conversas/replicar-o-tintin--01a1408f-480d-79f0-a3df-bd1c2e6c002a.md",
+      "turns": 43,
+      "messages": 231,
+      "pages": 5,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a140bd-7e37-7500-a4ed-adad80c6ccba",
+      "title": "MOTION",
+      "path": "conversas/motion--01a140bd-7e37-7500-a4ed-adad80c6ccba.md",
+      "turns": 8,
+      "messages": 40,
+      "pages": 1,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a1c10f-f08c-7cc2-ae01-c1c32b9d01ec",
+      "title": "App API da Meta",
+      "path": "conversas/app-api-da-meta--01a1c10f-f08c-7cc2-ae01-c1c32b9d01ec.md",
+      "turns": 52,
+      "messages": 170,
+      "pages": 6,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": false,
+      "archived": false
+    },
+    {
+      "id": "01a1f485-ecf7-70f0-b88a-968c0812ee1d",
+      "title": "Localizar pasta do vídeo AJAX",
+      "path": "conversas/anexos-outros-clientes/localizar-pasta-do-video-ajax--01a1f485-ecf7-70f0-b88a-968c0812ee1d.md",
+      "turns": 1,
+      "messages": 4,
+      "pages": 1,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": true,
+      "archived": false
+    },
+    {
+      "id": "01a1f4df-0c74-7852-b406-55e9e1ed88cb",
+      "title": "Preparar passagem de bastão da SAZ",
+      "path": "conversas/anexos-outros-clientes/preparar-passagem-de-bastao-da-saz--01a1f4df-0c74-7852-b406-55e9e1ed88cb.md",
+      "turns": 1,
+      "messages": 4,
+      "pages": 1,
+      "complete": true,
+      "truncated_items": [],
+      "other_client": true,
+      "archived": false
+    }
+  ],
+  "attachments": [
+    {
+      "chat_id": "01a0c4d3-0fd0-7741-9ccc-bbf68fabb13f",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-5b6c9317-b29b-441f-91bc-da452251f135.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-8d94d068-e051-4857-af33-b00045045c6d.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-e8212149-d88b-4ee4-aa3b-4776a6b28e0d.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-f2351089-b646-4e48-8459-d0127d1ccbac.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-5498b669-5ff8-4c66-812b-c198ffeeae5c.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-d46afe7f-8c3a-46d5-a463-f6f0178757e9.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-edbbe53a-749f-4458-b432-5af490721041.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-1f19afcc-a53e-4aa6-96a4-5dc1c63bda81.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-fb85c04b-c538-45e5-9dbb-f88d0ffa62c9.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-03335729-2817-445a-9841-6ded00662f75.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-291adebd-a823-4eb1-a5ea-7d6c4370973e.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-99269f9d-dd74-42af-ab7e-3c090cf9a00c.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0cff4-fdb8-7ee2-9b3d-50e30835bc42",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-feb9016f-da05-4c17-87a9-f336cc036561.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f89b-5aea-7280-995b-d049d4ee1a9e",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-32343600-2376-43a8-a8cf-58cc31824ba7.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f89b-5aea-7280-995b-d049d4ee1a9e",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-6501b372-80bc-4527-a508-188177e74892.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f89b-5aea-7280-995b-d049d4ee1a9e",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-a269e0a0-7c4a-419a-83e4-98d4456d067c.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a0f89b-5aea-7280-995b-d049d4ee1a9e",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-ca7dc4da-c142-4645-b63d-38cb8e79c8c7.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a10e95-e80c-7743-ba10-909a0c4c1181",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-1dcb49ec-d180-4ef9-bf37-f21a017a18d3.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a10e95-e80c-7743-ba10-909a0c4c1181",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-83cf9f71-cb4c-4e67-835b-dfeffabca927.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a10e95-e80c-7743-ba10-909a0c4c1181",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-aa567a23-289d-4a6c-a403-26ad7d06bb2f.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a10e95-e80c-7743-ba10-909a0c4c1181",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-cbf2b2ee-4763-4c03-91b4-36a138673db1.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1c10f-f08c-7cc2-ae01-c1c32b9d01ec",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-be61b651-b050-4fee-89a0-b5d3888fd231.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1c10f-f08c-7cc2-ae01-c1c32b9d01ec",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-964f6587-f7f7-4f84-9c62-652b7f373ce2.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1c10f-f08c-7cc2-ae01-c1c32b9d01ec",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-e8d8922b-0466-44e3-ba68-8c3edb9b9aaf.png",
+      "included": false
+    },
+    {
+      "chat_id": "01a1c10f-f08c-7cc2-ae01-c1c32b9d01ec",
+      "type": "localImage",
+      "reference": "C:\\Users\\roger\\AppData\\Local\\Temp\\codex-clipboard-3354d737-a71d-4b50-94cc-1f5617a8f0c5.png",
+      "included": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spreadsheetId": "1ODujKJqKFMGm8sXH9dzNdnLD9i2gAkE9N3PsA_G8fCg",
+  "tabs": {
+    "mediaMeta": "Meta Ads - Plataforma",
+    "mediaGoogle": "Google Ads",
+    "mql": "Métricas Comerciais"
+  },
+  "sql": {
+    "provider": "RD Station CRM MCP",
+    "pipelineId": "6696bf6a4d06480016194374",
+    "pipelineName": "PRINCIPAL",
+    "definition": "Todas as oportunidades criadas, independentemente da etapa ou status. Data = criação em America/Sao_Paulo.",
+    "channelRule": "Somente UTM_SOURCE/SOURCE, UTM_MEDIUM/MEDIUM e UTM_CAMPAIGN/CAMPAING. Não completar pela origem do RD; sem UTM = other.",
+    "sourceFallback": false,
+    "coverageFrom": "2026-10-01",
+    "coverageThrough": "2026-10-14"
+  },
+  "automaticUpdates": {
+    "status": "ACTIVE",
+    "timezone": "America/Sao_Paulo",
+    "frequency": "daily 08:00",
+    "kind": "local heartbeat",
+    "automationId": "atualizar-dashboard-spazio-italiano",
+    "requires": "Codex aberto e computador disponível",
+    "writerVerifiedOn": "2026-10-15"
+  },
+  "commercial": {
+    "monthlyBudgetBRL": 5000,
+    "correction": {
+      "from": "2026-10-01",
+      "through": "2026-10-14",
+      "sales": 5,
+      "revenueBRL": 14125
+    },
+    "attribution": "Somente consolidado; não ratear vendas/faturamento entre canais sem informação."
+  },
+  "audience": {
+    "gender": "Meta Ads - Genero!A:G",
+    "age": "Meta Ads - Idade!A:G",
+    "metric": "Leads (G) de cada aba; bases segmentadas distintas do funil corrigido."
+  },
+  "videoRetention": "video_pXX_watched_actions / video_play_actions",
+  "frequency": "Consulta única da conta Meta no período; não somar alcance entre dias.",
+  "crmLeads": "Todos os contatos criados no CRM, sem duplicação, com UTM da primeira negociação vinculada com origem preenchida. Nunca completar pela origem do CRM."
+}

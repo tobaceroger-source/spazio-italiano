@@ -1,0 +1,264 @@
+{
+  "prepared_at": "2026-11-23",
+  "repository": "tobaceroger-source/spazio-italiano",
+  "privacy": "private",
+  "scope": "13 chats de usuário do projeto local Codex; 308 turnos, 1108 mensagens; dois MCPs RD sem credenciais; materiais de apoio selecionados.",
+  "attachments": "Referências textuais; binários de imagens e demais anexos não incluídos.",
+  "mcp_authentication": "Links pessoais devem ser gerados pelo novo gestor no Catálogo RD Station.",
+  "checks_passed": [
+    "Todas as páginas dos 13 chats exportadas, sem itens no limite de 20 mil caracteres",
+    "1 chat arquivado e 2 chats de outros clientes identificados",
+    "Exemplos TOML/JSON válidos, contendo somente os dois servidores RD",
+    "Lista de ferramentas de consulta no TOML",
+    "Links relativos dos guias autorais e índice encontrados",
+    "Credenciais conhecidas e parâmetros secretos não encontrados nos arquivos finais, exceto placeholders",
+    "Hashes SHA-256 gerados para integridade"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 198,
+      "sha256": "4bb9d8c38135d4973babd8b43aab26f6831082a371fd83ccf7c2be79ea069b27"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2925,
+      "sha256": "74161334392b2d35001d6f5c168d8a9ee0ecde937a0b9d68edffa563c9fae16d"
+    },
+    {
+      "path": "COMECAR-AQUI.md",
+      "bytes": 2687,
+      "sha256": "cfb2a2dab4655c29cef0508860aef257d3499c60a2830251202b6f2caa2a52ce"
+    },
+    {
+      "path": "conversas/anexos-outros-clientes/localizar-pasta-do-video-ajax--01a1f485-ecf7-70f0-b88a-968c0812ee1d.md",
+      "bytes": 1493,
+      "sha256": "822d1960ade7d8499b7c23aad986067d3550e164e75205b595cf78f09e371801"
+    },
+    {
+      "path": "conversas/anexos-outros-clientes/preparar-passagem-de-bastao-da-saz--01a1f4df-0c74-7852-b406-55e9e1ed88cb.md",
+      "bytes": 6442,
+      "sha256": "8fe39639625fe360675736da827230d1ba71bb7c5bb6d4bd9d5ee678a20dfc6c"
+    },
+    {
+      "path": "conversas/app-api-da-meta--01a1c10f-f08c-7cc2-ae01-c1c32b9d01ec.md",
+      "bytes": 63087,
+      "sha256": "4a12c8345a797bb6a213b55ff18c8bf551215e68ea6ac311c05961d4bc90f823"
+    },
+    {
+      "path": "conversas/checkin--01a0c4d3-0fd0-7741-9ccc-bbf68fabb13f.md",
+      "bytes": 6038,
+      "sha256": "8b3263ebe7aeb994f224a7b0245a425a3611a6bf3b6709e6f003c0a691725a4f"
+    },
+    {
+      "path": "conversas/dashboard--01a0f89b-5aea-7280-995b-d049d4ee1a9e.md",
+      "bytes": 166784,
+      "sha256": "bf1192e5c8bdfa288a348874241928e4dd068f9801cb784be390131e6693ac55"
+    },
+    {
+      "path": "conversas/gpt-ads--01a0f8ac-bd7b-7181-a5cf-192add77e410.md",
+      "bytes": 7925,
+      "sha256": "18350c00dcfc22edffdb1be5b619a69d2b34d45b97218b44d6d6b88c5378249c"
+    },
+    {
+      "path": "conversas/INDICE.md",
+      "bytes": 1892,
+      "sha256": "daf4bacb12f76f363ed09fb352dbd51b37caf6e85064a3b4932bbecf8122e5d7"
+    },
+    {
+      "path": "conversas/localizar-evidencias--01a1359b-2021-73e3-939b-4adb4647b845.md",
+      "bytes": 5152,
+      "sha256": "fe4d978ab9e248b307c26a1844f4fa16a5aefdfea5c1dfcf8d4221b7dfbcf16b"
+    },
+    {
+      "path": "conversas/manifesto.json",
+      "bytes": 10925,
+      "sha256": "39ef1bc45df5d4510fd5a838deab1ba08f0ceb71496128539a0e7d3ef4f5c72f"
+    },
+    {
+      "path": "conversas/mcp-rd-station--01a0d07f-c570-7f91-a5fa-f8b50055e059.md",
+      "bytes": 70531,
+      "sha256": "003dfd9f214398f298703acf6b96057e3756d1786556618ea4fcdfcea6ed76d5"
+    },
+    {
+      "path": "conversas/motion--01a140bd-7e37-7500-a4ed-adad80c6ccba.md",
+      "bytes": 9191,
+      "sha256": "019be3993cdb97d727c0d50f3229c558a4d5c7cdd460c5a2e48ad9feb0d50c9d"
+    },
+    {
+      "path": "conversas/planilhas-de-lead--01a0cff4-fdb8-7ee2-9b3d-50e30835bc42.md",
+      "bytes": 59332,
+      "sha256": "075a2097a36a360cafe19be72dcd4a0b3716c611f7a77e7d1428bcf705aca669"
+    },
+    {
+      "path": "conversas/replicar-o-tintin--01a1408f-480d-79f0-a3df-bd1c2e6c002a.md",
+      "bytes": 84242,
+      "sha256": "85af16a405974d2a1014e2cd84ef3db20fa6b7f62bd5cc93a9d21db6235d4c34"
+    },
+    {
+      "path": "conversas/subir-criativos-na-meta-ads--01a10e95-e80c-7743-ba10-909a0c4c1181.md",
+      "bytes": 29901,
+      "sha256": "027af5d2100b218146837ce589bb21b605e49a23e32cc18bc5b41578237442e5"
+    },
+    {
+      "path": "conversas/testar-conexoes-rd-marketing-e-crm--01a0d0ab-08f7-7610-a4fe-7f500894f7ac.md",
+      "bytes": 1352,
+      "sha256": "99039a40060ca41f128e0a7fd7529c1d129eadbea12175c17841b357d35075ee"
+    },
+    {
+      "path": "materiais/check-in/2026-08-27 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 37648,
+      "sha256": "f0ced49286325600ec05dd385f0934b0a3ee59a8356493334f21869cc95342b5"
+    },
+    {
+      "path": "materiais/check-in/2026-09-03 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 327,
+      "sha256": "60e3e9c966eb96cb5f0746efbea7749062b3497fdaba503e0931cf04b97c7924"
+    },
+    {
+      "path": "materiais/check-in/2026-09-10 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 535,
+      "sha256": "e3fd116b8c7fb3e8f8097853d18e9d6729bbc42f4f53f4bc883e8c465b1c6feb"
+    },
+    {
+      "path": "materiais/check-in/2026-09-17 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 55453,
+      "sha256": "9997cf11b30a6bbd51a986f98b5b04f9215fd052d2f828b27131920107bb0fe5"
+    },
+    {
+      "path": "materiais/check-in/2026-09-24 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 254,
+      "sha256": "295524dd904da8bbe5d5175df5169e54f1e2757a53f7c37b900dadb37b13f030"
+    },
+    {
+      "path": "materiais/check-in/2026-10-01 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 53959,
+      "sha256": "91f20354ed8ca288c6fea5c49ea2d9ff2c1b02838f2d55472a89eace1ae12670"
+    },
+    {
+      "path": "materiais/check-in/2026-10-09 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 30122,
+      "sha256": "c3a0b52589ab453a7e5d1f7be2ddd5bdf1eaabd40a7ca89ae64bc94f0179f405"
+    },
+    {
+      "path": "materiais/check-in/2026-10-15 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 43694,
+      "sha256": "0cf198408c22f9323b6cb10b61b6d3088fe36564800f79f166e67d0cf1803bb3"
+    },
+    {
+      "path": "materiais/check-in/2026-10-22 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 254,
+      "sha256": "3b8c7d77a068e34675ec73eceff321e61dcd16f9267915951b02eed0c519db69"
+    },
+    {
+      "path": "materiais/check-in/2026-10-29 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 254,
+      "sha256": "769f1a7b11a217dbaae27165528bc7122b8e3d9577ffbafb9e7b02f3811adfec"
+    },
+    {
+      "path": "materiais/check-in/2026-11-06 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 39442,
+      "sha256": "dfe890b37781697b80d75014eed26c505d57a7f2e411df11db9d6194248a8e09"
+    },
+    {
+      "path": "materiais/check-in/2026-11-13 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+      "bytes": 73395,
+      "sha256": "a7af0b6c12988a8fbba6d9805bb1cc05831cdefbe95b385043cf5144aa742d7e"
+    },
+    {
+      "path": "materiais/check-in/AGENTS.md",
+      "bytes": 534,
+      "sha256": "1cf8971b507749df1dc0bdc73438ea5b54a34f8bbee315b5f2abdb84d61455c9"
+    },
+    {
+      "path": "materiais/check-in/CONTEXTO-RETOMADA.md",
+      "bytes": 1673,
+      "sha256": "3285208bd2e2b18a839993ec28e6f0326157717edfdcb5c2221faa56e4a678c7"
+    },
+    {
+      "path": "materiais/check-in/SKILL.md",
+      "bytes": 5976,
+      "sha256": "f1d5b1f26bbe19770c506b69c22d917014e02c1733fc0e0f928154f4dea10404"
+    },
+    {
+      "path": "materiais/dashboard-spazio-replica/public/update-instructions.md",
+      "bytes": 15287,
+      "sha256": "dd9e283088ddd2b5e16edf428d39be015fb201533c657bb5092d1351b2b32abc"
+    },
+    {
+      "path": "materiais/dashboard-spazio-replica/sources.json",
+      "bytes": 1808,
+      "sha256": "5a886baa8ab69061cfcf998d3a71c9822224b3c5f5707730e800ead5587643a3"
+    },
+    {
+      "path": "materiais/dashboard-spazio-runtime/README.md",
+      "bytes": 10120,
+      "sha256": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7"
+    },
+    {
+      "path": "materiais/evidencias/Spazio-Italiano-Meta-Google-2026-10-01-a-2026-10-13.json",
+      "bytes": 28539,
+      "sha256": "70acdf28c3054409c42b4dc9c05ad43b522400607c6fff4b7a231a44822aaad5"
+    },
+    {
+      "path": "materiais/evidencias/Spazio-Italiano-Meta-Google-2026-10-01-a-2026-10-13.txt",
+      "bytes": 3752,
+      "sha256": "fe4e827476130f0d871f9269f19ed5dfdd2577724c4e7bf07e4dbbb8a7b94d1e"
+    },
+    {
+      "path": "materiais/manifesto.json",
+      "bytes": 3438,
+      "sha256": "6418c9bcc9e101af0375b813273d7e9c3b1d9b10d1ff6dfcf5b7d55beed9be9a"
+    },
+    {
+      "path": "PASSAGEM-DE-BASTAO.md",
+      "bytes": 7812,
+      "sha256": "5020dc458a559867e5bd822fdb730e0ddf78d883e41d8c7d61370e31e968bac9"
+    },
+    {
+      "path": "PROMPT-DE-RETOMADA.md",
+      "bytes": 1568,
+      "sha256": "b2c8c14b4fd60f9fa128fc566f38c97c785c88655b6c7cbeffdd46b0ddf7bc71"
+    },
+    {
+      "path": "rd/campos-crm.json",
+      "bytes": 3281,
+      "sha256": "a6d0dac64a05b0c99742d83405352fa30bff6bfc4d58a5434dbeb04ee80f3a4a"
+    },
+    {
+      "path": "rd/catalogo-ferramentas.json",
+      "bytes": 261455,
+      "sha256": "af2bdeed6d5ac1f3b4d32e8a5647a62537820c7112e61ecc284219f375f2e4a2"
+    },
+    {
+      "path": "rd/CONECTAR-RD.md",
+      "bytes": 4356,
+      "sha256": "2dccfaf58161f786a98162dd2b508ad9a88d910d03ddcbc309137174c4a3efb9"
+    },
+    {
+      "path": "rd/config.codex.example.toml",
+      "bytes": 1498,
+      "sha256": "86672d75759869095905821a78e92d0306d2ad4158d039eac6bb6995fe933696"
+    },
+    {
+      "path": "rd/CRITERIOS-E-CONSULTAS.md",
+      "bytes": 7267,
+      "sha256": "b0c7b8c474e111efdfdf4cea9f6391c71e3ac790f2c1b969964abdf70c65ada3"
+    },
+    {
+      "path": "rd/mcp.example.json",
+      "bytes": 303,
+      "sha256": "a266ad39f8597b6fca8e47c03ed437a7b694b8ea573c29e8d4dbe1ddd75a9e0f"
+    },
+    {
+      "path": "rd/validacao-2026-11-23.json",
+      "bytes": 13645,
+      "sha256": "89218b5e6b0f62c3f534e7adbb1f06d26cf1e5b946e472eb08b90c69c7e7e227"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3901,
+      "sha256": "55551d9a36c1f153cf29202b104aa92ddd0beb9413dcb1009617bb04cc749e18"
+    }
+  ]
+}

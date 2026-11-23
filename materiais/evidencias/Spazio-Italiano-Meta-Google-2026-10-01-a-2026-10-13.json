@@ -1,0 +1,576 @@
+{
+  "client": "Spazio Italiano",
+  "period": {
+    "since": "2026-10-01",
+    "until": "2026-10-13",
+    "timezone": "America/Sao_Paulo",
+    "end_date_is_partial": true
+  },
+  "collected_at_utc": "2026-10-13 14:14:03 UTC",
+  "sources": {
+    "meta": "Meta Ads MCP — ads_get_ad_entities",
+    "google": "Google Ads Canovas Mendes — search_search"
+  },
+  "meta": {
+    "account": {
+      "id": "1287402738480607",
+      "name": "CA01 - Spazio Italiano",
+      "timezone_name": "America/Sao_Paulo",
+      "amount_spent": {
+        "value": "1323.91",
+        "unit": "BRL"
+      },
+      "impressions": "52121",
+      "reach": "28043",
+      "link_click": "765",
+      "lead": "214",
+      "cost_per_lead": {
+        "value": "6.19",
+        "unit": "BRL"
+      },
+      "onsite_conversion_lead_grouped": "52"
+    },
+    "campaigns": [
+      {
+        "id": "120244867137620603",
+        "name": "🟢 C - [V01] [LP] [ONLINE]",
+        "effective_status": "ACTIVE",
+        "objective": "OUTCOME_LEADS",
+        "amount_spent": {
+          "value": "380.87",
+          "unit": "BRL"
+        },
+        "impressions": "9879",
+        "link_click": "201",
+        "lead": "26",
+        "cost_per_lead": {
+          "value": "14.65",
+          "unit": "BRL"
+        },
+        "results": {
+          "indicator": "actions:offsite_conversion.fb_pixel_lead",
+          "values": [
+            {
+              "attribution_windows": [
+                "default"
+              ],
+              "value": "26"
+            }
+          ]
+        },
+        "cost_per_result": {
+          "value": "14.65",
+          "unit": "BRL",
+          "conversion_type": "Leads no site"
+        },
+        "onsite_conversion_lead_grouped": null
+      },
+      {
+        "id": "120246937657010603",
+        "name": "🟢 C - [V03] [FORM NATIVO] [PRESENCIAL]",
+        "effective_status": "ACTIVE",
+        "objective": "OUTCOME_LEADS",
+        "amount_spent": {
+          "value": "374.72",
+          "unit": "BRL"
+        },
+        "impressions": "21677",
+        "link_click": "234",
+        "lead": "99",
+        "cost_per_lead": {
+          "value": "3.79",
+          "unit": "BRL"
+        },
+        "results": {
+          "indicator": "actions:leadgen.other",
+          "values": [
+            {
+              "attribution_windows": [
+                "default"
+              ],
+              "value": "24"
+            }
+          ]
+        },
+        "cost_per_result": {
+          "value": "15.61",
+          "unit": "BRL",
+          "conversion_type": "Leads (formulário)"
+        },
+        "onsite_conversion_lead_grouped": "24"
+      },
+      {
+        "id": "120252292345680603",
+        "name": "🟢 C - [V08] [FORM NATIVO] [VIAGEM]",
+        "effective_status": "ACTIVE",
+        "objective": "OUTCOME_LEADS",
+        "amount_spent": {
+          "value": "369.58",
+          "unit": "BRL"
+        },
+        "impressions": "15025",
+        "link_click": "260",
+        "lead": "82",
+        "cost_per_lead": {
+          "value": "4.51",
+          "unit": "BRL"
+        },
+        "results": {
+          "indicator": "actions:leadgen.other",
+          "values": [
+            {
+              "attribution_windows": [
+                "default"
+              ],
+              "value": "28"
+            }
+          ]
+        },
+        "cost_per_result": {
+          "value": "13.2",
+          "unit": "BRL",
+          "conversion_type": "Leads (formulário)"
+        },
+        "onsite_conversion_lead_grouped": "28"
+      },
+      {
+        "id": "120246010948960603",
+        "name": "🟢 C - [V02] [LP] [RMK FECHADO]",
+        "effective_status": "ACTIVE",
+        "objective": "OUTCOME_LEADS",
+        "amount_spent": {
+          "value": "198.83",
+          "unit": "BRL"
+        },
+        "impressions": "5541",
+        "link_click": "70",
+        "lead": "7",
+        "cost_per_lead": {
+          "value": "28.4",
+          "unit": "BRL"
+        },
+        "results": {
+          "indicator": "actions:offsite_conversion.fb_pixel_lead",
+          "values": [
+            {
+              "attribution_windows": [
+                "default"
+              ],
+              "value": "7"
+            }
+          ]
+        },
+        "cost_per_result": {
+          "value": "28.4",
+          "unit": "BRL",
+          "conversion_type": "Leads no site"
+        },
+        "onsite_conversion_lead_grouped": null
+      }
+    ],
+    "results_sum": 85
+  },
+  "google": {
+    "account_id": "7157090272",
+    "account_name": "Spazio Italiano",
+    "currency": "BRL",
+    "total": {
+      "metrics.cost_micros": 797784990,
+      "metrics.impressions": 1499,
+      "metrics.clicks": 188,
+      "metrics.conversions": 22,
+      "metrics.ctr": 0.12541694462975317,
+      "metrics.average_cpc": 4243537.180851064,
+      "metrics.cost_per_conversion": 36262954.09090909
+    },
+    "campaigns": [
+      {
+        "campaign.id": 16641067609,
+        "campaign.name": "Search Spazio",
+        "campaign.status": "PAUSED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      },
+      {
+        "campaign.id": 16727760701,
+        "campaign.name": "Performance - Conversão Spazio",
+        "campaign.status": "PAUSED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      },
+      {
+        "campaign.id": 16742466919,
+        "campaign.name": "Youtube Spazio",
+        "campaign.status": "REMOVED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      },
+      {
+        "campaign.id": 19281523327,
+        "campaign.name": "Performance - Spazio Studio",
+        "campaign.status": "REMOVED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      },
+      {
+        "campaign.id": 20038383512,
+        "campaign.name": "Vídeo Frequência Desejada - Spazio Studio",
+        "campaign.status": "REMOVED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      },
+      {
+        "campaign.id": 22048079249,
+        "campaign.name": "Campanha Display 2025",
+        "campaign.status": "PAUSED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      },
+      {
+        "campaign.id": 23626048514,
+        "campaign.name": "WPP 2026",
+        "campaign.status": "REMOVED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      },
+      {
+        "campaign.id": 23733693804,
+        "campaign.name": "[SEARCH][ONLINE] SPAZIO ITALIANO",
+        "campaign.status": "ENABLED",
+        "metrics.cost_micros": 411511141,
+        "metrics.impressions": 973,
+        "metrics.clicks": 106,
+        "metrics.ctr": 0.10894141829393628,
+        "metrics.average_cpc": 3882180.5754716983,
+        "metrics.conversions": 10,
+        "metrics.cost_per_conversion": 41151114.1
+      },
+      {
+        "campaign.id": 23852798524,
+        "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+        "campaign.status": "ENABLED",
+        "metrics.cost_micros": 386273849,
+        "metrics.impressions": 526,
+        "metrics.clicks": 82,
+        "metrics.ctr": 0.155893536121673,
+        "metrics.average_cpc": 4710656.695121951,
+        "metrics.conversions": 12,
+        "metrics.cost_per_conversion": 32189487.416666668
+      },
+      {
+        "campaign.id": 23890194376,
+        "campaign.name": "[PMAX] INTESIVO FERIAS",
+        "campaign.status": "PAUSED",
+        "metrics.cost_micros": 0,
+        "metrics.impressions": 0,
+        "metrics.clicks": 0,
+        "metrics.ctr": 0,
+        "metrics.average_cpc": 0,
+        "metrics.conversions": 0,
+        "metrics.cost_per_conversion": 0
+      }
+    ],
+    "conversion_actions": [
+      {
+        "campaign.id": 23733693804,
+        "campaign.name": "[SEARCH][ONLINE] SPAZIO ITALIANO",
+        "segments.conversion_action_name": "Lead LP - V4",
+        "segments.conversion_action_category": "SUBMIT_LEAD_FORM",
+        "metrics.conversions": 10,
+        "metrics.all_conversions": 10
+      },
+      {
+        "campaign.id": 23852798524,
+        "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+        "segments.conversion_action_name": "Formulário Site",
+        "segments.conversion_action_category": "SUBMIT_LEAD_FORM",
+        "metrics.conversions": 1,
+        "metrics.all_conversions": 1
+      },
+      {
+        "campaign.id": 23852798524,
+        "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+        "segments.conversion_action_name": "Lead LP - V4",
+        "segments.conversion_action_category": "SUBMIT_LEAD_FORM",
+        "metrics.conversions": 11,
+        "metrics.all_conversions": 11
+      },
+      {
+        "campaign.id": 23852798524,
+        "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+        "segments.conversion_action_name": "WPP Site",
+        "segments.conversion_action_category": "CONTACT",
+        "metrics.conversions": 0,
+        "metrics.all_conversions": 1
+      }
+    ]
+  },
+  "original_tool_results": {
+    "meta_account": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"ad_entities\":\"[{\\\"id\\\":\\\"1287402738480607\\\",\\\"name\\\":\\\"CA01 - Spazio Italiano\\\",\\\"timezone_name\\\":\\\"America\\\\\\/Sao_Paulo\\\",\\\"amount_spent\\\":{\\\"value\\\":\\\"1323.91\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"impressions\\\":\\\"52121\\\",\\\"reach\\\":\\\"28043\\\",\\\"link_click\\\":\\\"765\\\",\\\"lead\\\":\\\"214\\\",\\\"cost_per_lead\\\":{\\\"value\\\":\\\"6.19\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"onsite_conversion_lead_grouped\\\":\\\"52\\\"}]\"}"
+        }
+      ],
+      "structuredContent": {
+        "ad_entities": "[{\"id\":\"1287402738480607\",\"name\":\"CA01 - Spazio Italiano\",\"timezone_name\":\"America\\/Sao_Paulo\",\"amount_spent\":{\"value\":\"1323.91\",\"unit\":\"BRL\"},\"impressions\":\"52121\",\"reach\":\"28043\",\"link_click\":\"765\",\"lead\":\"214\",\"cost_per_lead\":{\"value\":\"6.19\",\"unit\":\"BRL\"},\"onsite_conversion_lead_grouped\":\"52\"}]"
+      },
+      "isError": false
+    },
+    "meta_campaigns": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"ad_entities\":\"[{\\\"id\\\":\\\"120244867137620603\\\",\\\"name\\\":\\\"\\\\ud83d\\\\udfe2 C - [V01] [LP] [ONLINE]\\\",\\\"effective_status\\\":\\\"ACTIVE\\\",\\\"objective\\\":\\\"OUTCOME_LEADS\\\",\\\"amount_spent\\\":{\\\"value\\\":\\\"380.87\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"impressions\\\":\\\"9879\\\",\\\"link_click\\\":\\\"201\\\",\\\"lead\\\":\\\"26\\\",\\\"cost_per_lead\\\":{\\\"value\\\":\\\"14.65\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"results\\\":{\\\"indicator\\\":\\\"actions:offsite_conversion.fb_pixel_lead\\\",\\\"values\\\":[{\\\"attribution_windows\\\":[\\\"default\\\"],\\\"value\\\":\\\"26\\\"}]},\\\"cost_per_result\\\":{\\\"value\\\":\\\"14.65\\\",\\\"unit\\\":\\\"BRL\\\",\\\"conversion_type\\\":\\\"Leads no site\\\"},\\\"onsite_conversion_lead_grouped\\\":null},{\\\"id\\\":\\\"120246937657010603\\\",\\\"name\\\":\\\"\\\\ud83d\\\\udfe2 C - [V03] [FORM NATIVO] [PRESENCIAL]\\\",\\\"effective_status\\\":\\\"ACTIVE\\\",\\\"objective\\\":\\\"OUTCOME_LEADS\\\",\\\"amount_spent\\\":{\\\"value\\\":\\\"374.72\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"impressions\\\":\\\"21677\\\",\\\"link_click\\\":\\\"234\\\",\\\"lead\\\":\\\"99\\\",\\\"cost_per_lead\\\":{\\\"value\\\":\\\"3.79\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"results\\\":{\\\"indicator\\\":\\\"actions:leadgen.other\\\",\\\"values\\\":[{\\\"attribution_windows\\\":[\\\"default\\\"],\\\"value\\\":\\\"24\\\"}]},\\\"cost_per_result\\\":{\\\"value\\\":\\\"15.61\\\",\\\"unit\\\":\\\"BRL\\\",\\\"conversion_type\\\":\\\"Leads (formul\\\\u00e1rio)\\\"},\\\"onsite_conversion_lead_grouped\\\":\\\"24\\\"},{\\\"id\\\":\\\"120252292345680603\\\",\\\"name\\\":\\\"\\\\ud83d\\\\udfe2 C - [V08] [FORM NATIVO] [VIAGEM]\\\",\\\"effective_status\\\":\\\"ACTIVE\\\",\\\"objective\\\":\\\"OUTCOME_LEADS\\\",\\\"amount_spent\\\":{\\\"value\\\":\\\"369.58\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"impressions\\\":\\\"15025\\\",\\\"link_click\\\":\\\"260\\\",\\\"lead\\\":\\\"82\\\",\\\"cost_per_lead\\\":{\\\"value\\\":\\\"4.51\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"results\\\":{\\\"indicator\\\":\\\"actions:leadgen.other\\\",\\\"values\\\":[{\\\"attribution_windows\\\":[\\\"default\\\"],\\\"value\\\":\\\"28\\\"}]},\\\"cost_per_result\\\":{\\\"value\\\":\\\"13.2\\\",\\\"unit\\\":\\\"BRL\\\",\\\"conversion_type\\\":\\\"Leads (formul\\\\u00e1rio)\\\"},\\\"onsite_conversion_lead_grouped\\\":\\\"28\\\"},{\\\"id\\\":\\\"120246010948960603\\\",\\\"name\\\":\\\"\\\\ud83d\\\\udfe2 C - [V02] [LP] [RMK FECHADO]\\\",\\\"effective_status\\\":\\\"ACTIVE\\\",\\\"objective\\\":\\\"OUTCOME_LEADS\\\",\\\"amount_spent\\\":{\\\"value\\\":\\\"198.83\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"impressions\\\":\\\"5541\\\",\\\"link_click\\\":\\\"70\\\",\\\"lead\\\":\\\"7\\\",\\\"cost_per_lead\\\":{\\\"value\\\":\\\"28.4\\\",\\\"unit\\\":\\\"BRL\\\"},\\\"results\\\":{\\\"indicator\\\":\\\"actions:offsite_conversion.fb_pixel_lead\\\",\\\"values\\\":[{\\\"attribution_windows\\\":[\\\"default\\\"],\\\"value\\\":\\\"7\\\"}]},\\\"cost_per_result\\\":{\\\"value\\\":\\\"28.4\\\",\\\"unit\\\":\\\"BRL\\\",\\\"conversion_type\\\":\\\"Leads no site\\\"},\\\"onsite_conversion_lead_grouped\\\":null}]\"}"
+        }
+      ],
+      "structuredContent": {
+        "ad_entities": "[{\"id\":\"120244867137620603\",\"name\":\"\\ud83d\\udfe2 C - [V01] [LP] [ONLINE]\",\"effective_status\":\"ACTIVE\",\"objective\":\"OUTCOME_LEADS\",\"amount_spent\":{\"value\":\"380.87\",\"unit\":\"BRL\"},\"impressions\":\"9879\",\"link_click\":\"201\",\"lead\":\"26\",\"cost_per_lead\":{\"value\":\"14.65\",\"unit\":\"BRL\"},\"results\":{\"indicator\":\"actions:offsite_conversion.fb_pixel_lead\",\"values\":[{\"attribution_windows\":[\"default\"],\"value\":\"26\"}]},\"cost_per_result\":{\"value\":\"14.65\",\"unit\":\"BRL\",\"conversion_type\":\"Leads no site\"},\"onsite_conversion_lead_grouped\":null},{\"id\":\"120246937657010603\",\"name\":\"\\ud83d\\udfe2 C - [V03] [FORM NATIVO] [PRESENCIAL]\",\"effective_status\":\"ACTIVE\",\"objective\":\"OUTCOME_LEADS\",\"amount_spent\":{\"value\":\"374.72\",\"unit\":\"BRL\"},\"impressions\":\"21677\",\"link_click\":\"234\",\"lead\":\"99\",\"cost_per_lead\":{\"value\":\"3.79\",\"unit\":\"BRL\"},\"results\":{\"indicator\":\"actions:leadgen.other\",\"values\":[{\"attribution_windows\":[\"default\"],\"value\":\"24\"}]},\"cost_per_result\":{\"value\":\"15.61\",\"unit\":\"BRL\",\"conversion_type\":\"Leads (formul\\u00e1rio)\"},\"onsite_conversion_lead_grouped\":\"24\"},{\"id\":\"120252292345680603\",\"name\":\"\\ud83d\\udfe2 C - [V08] [FORM NATIVO] [VIAGEM]\",\"effective_status\":\"ACTIVE\",\"objective\":\"OUTCOME_LEADS\",\"amount_spent\":{\"value\":\"369.58\",\"unit\":\"BRL\"},\"impressions\":\"15025\",\"link_click\":\"260\",\"lead\":\"82\",\"cost_per_lead\":{\"value\":\"4.51\",\"unit\":\"BRL\"},\"results\":{\"indicator\":\"actions:leadgen.other\",\"values\":[{\"attribution_windows\":[\"default\"],\"value\":\"28\"}]},\"cost_per_result\":{\"value\":\"13.2\",\"unit\":\"BRL\",\"conversion_type\":\"Leads (formul\\u00e1rio)\"},\"onsite_conversion_lead_grouped\":\"28\"},{\"id\":\"120246010948960603\",\"name\":\"\\ud83d\\udfe2 C - [V02] [LP] [RMK FECHADO]\",\"effective_status\":\"ACTIVE\",\"objective\":\"OUTCOME_LEADS\",\"amount_spent\":{\"value\":\"198.83\",\"unit\":\"BRL\"},\"impressions\":\"5541\",\"link_click\":\"70\",\"lead\":\"7\",\"cost_per_lead\":{\"value\":\"28.4\",\"unit\":\"BRL\"},\"results\":{\"indicator\":\"actions:offsite_conversion.fb_pixel_lead\",\"values\":[{\"attribution_windows\":[\"default\"],\"value\":\"7\"}]},\"cost_per_result\":{\"value\":\"28.4\",\"unit\":\"BRL\",\"conversion_type\":\"Leads no site\"},\"onsite_conversion_lead_grouped\":null}]"
+      },
+      "isError": false
+    },
+    "google_account_total": {
+      "content": [
+        {
+          "type": "text",
+          "text": "[{\"metrics.cost_micros\":797784990,\"metrics.impressions\":1499,\"metrics.clicks\":188,\"metrics.conversions\":22.0,\"metrics.ctr\":0.12541694462975317,\"metrics.average_cpc\":4243537.180851064,\"metrics.cost_per_conversion\":36262954.09090909}]"
+        }
+      ],
+      "structuredContent": {
+        "result": [
+          {
+            "metrics.cost_micros": 797784990,
+            "metrics.impressions": 1499,
+            "metrics.clicks": 188,
+            "metrics.conversions": 22,
+            "metrics.ctr": 0.12541694462975317,
+            "metrics.average_cpc": 4243537.180851064,
+            "metrics.cost_per_conversion": 36262954.09090909
+          }
+        ]
+      },
+      "isError": false
+    },
+    "google_campaigns": {
+      "content": [
+        {
+          "type": "text",
+          "text": "[{\"campaign.id\":16641067609,\"campaign.name\":\"Search Spazio\",\"campaign.status\":\"PAUSED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0},{\"campaign.id\":16727760701,\"campaign.name\":\"Performance - Conversão Spazio\",\"campaign.status\":\"PAUSED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0},{\"campaign.id\":16742466919,\"campaign.name\":\"Youtube Spazio\",\"campaign.status\":\"REMOVED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0},{\"campaign.id\":19281523327,\"campaign.name\":\"Performance - Spazio Studio\",\"campaign.status\":\"REMOVED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0},{\"campaign.id\":20038383512,\"campaign.name\":\"Vídeo Frequência Desejada - Spazio Studio\",\"campaign.status\":\"REMOVED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0},{\"campaign.id\":22048079249,\"campaign.name\":\"Campanha Display 2025\",\"campaign.status\":\"PAUSED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0},{\"campaign.id\":23626048514,\"campaign.name\":\"WPP 2026\",\"campaign.status\":\"REMOVED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0},{\"campaign.id\":23733693804,\"campaign.name\":\"[SEARCH][ONLINE] SPAZIO ITALIANO\",\"campaign.status\":\"ENABLED\",\"metrics.cost_micros\":411511141,\"metrics.impressions\":973,\"metrics.clicks\":106,\"metrics.ctr\":0.10894141829393628,\"metrics.average_cpc\":3882180.5754716983,\"metrics.conversions\":10.0,\"metrics.cost_per_conversion\":41151114.1},{\"campaign.id\":23852798524,\"campaign.name\":\"[SEARCH][PRESENCIAL]  SPAZIO ITALIANO\",\"campaign.status\":\"ENABLED\",\"metrics.cost_micros\":386273849,\"metrics.impressions\":526,\"metrics.clicks\":82,\"metrics.ctr\":0.155893536121673,\"metrics.average_cpc\":4710656.695121951,\"metrics.conversions\":12.0,\"metrics.cost_per_conversion\":32189487.416666668},{\"campaign.id\":23890194376,\"campaign.name\":\"[PMAX] INTESIVO FERIAS\",\"campaign.status\":\"PAUSED\",\"metrics.cost_micros\":0,\"metrics.impressions\":0,\"metrics.clicks\":0,\"metrics.ctr\":0.0,\"metrics.average_cpc\":0.0,\"metrics.conversions\":0.0,\"metrics.cost_per_conversion\":0.0}]"
+        }
+      ],
+      "structuredContent": {
+        "result": [
+          {
+            "campaign.id": 16641067609,
+            "campaign.name": "Search Spazio",
+            "campaign.status": "PAUSED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          },
+          {
+            "campaign.id": 16727760701,
+            "campaign.name": "Performance - Conversão Spazio",
+            "campaign.status": "PAUSED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          },
+          {
+            "campaign.id": 16742466919,
+            "campaign.name": "Youtube Spazio",
+            "campaign.status": "REMOVED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          },
+          {
+            "campaign.id": 19281523327,
+            "campaign.name": "Performance - Spazio Studio",
+            "campaign.status": "REMOVED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          },
+          {
+            "campaign.id": 20038383512,
+            "campaign.name": "Vídeo Frequência Desejada - Spazio Studio",
+            "campaign.status": "REMOVED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          },
+          {
+            "campaign.id": 22048079249,
+            "campaign.name": "Campanha Display 2025",
+            "campaign.status": "PAUSED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          },
+          {
+            "campaign.id": 23626048514,
+            "campaign.name": "WPP 2026",
+            "campaign.status": "REMOVED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          },
+          {
+            "campaign.id": 23733693804,
+            "campaign.name": "[SEARCH][ONLINE] SPAZIO ITALIANO",
+            "campaign.status": "ENABLED",
+            "metrics.cost_micros": 411511141,
+            "metrics.impressions": 973,
+            "metrics.clicks": 106,
+            "metrics.ctr": 0.10894141829393628,
+            "metrics.average_cpc": 3882180.5754716983,
+            "metrics.conversions": 10,
+            "metrics.cost_per_conversion": 41151114.1
+          },
+          {
+            "campaign.id": 23852798524,
+            "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+            "campaign.status": "ENABLED",
+            "metrics.cost_micros": 386273849,
+            "metrics.impressions": 526,
+            "metrics.clicks": 82,
+            "metrics.ctr": 0.155893536121673,
+            "metrics.average_cpc": 4710656.695121951,
+            "metrics.conversions": 12,
+            "metrics.cost_per_conversion": 32189487.416666668
+          },
+          {
+            "campaign.id": 23890194376,
+            "campaign.name": "[PMAX] INTESIVO FERIAS",
+            "campaign.status": "PAUSED",
+            "metrics.cost_micros": 0,
+            "metrics.impressions": 0,
+            "metrics.clicks": 0,
+            "metrics.ctr": 0,
+            "metrics.average_cpc": 0,
+            "metrics.conversions": 0,
+            "metrics.cost_per_conversion": 0
+          }
+        ]
+      },
+      "isError": false
+    },
+    "google_conversion_actions": {
+      "content": [
+        {
+          "type": "text",
+          "text": "[{\"campaign.id\":23733693804,\"campaign.name\":\"[SEARCH][ONLINE] SPAZIO ITALIANO\",\"segments.conversion_action_name\":\"Lead LP - V4\",\"segments.conversion_action_category\":\"SUBMIT_LEAD_FORM\",\"metrics.conversions\":10.0,\"metrics.all_conversions\":10.0},{\"campaign.id\":23852798524,\"campaign.name\":\"[SEARCH][PRESENCIAL]  SPAZIO ITALIANO\",\"segments.conversion_action_name\":\"Formulário Site\",\"segments.conversion_action_category\":\"SUBMIT_LEAD_FORM\",\"metrics.conversions\":1.0,\"metrics.all_conversions\":1.0},{\"campaign.id\":23852798524,\"campaign.name\":\"[SEARCH][PRESENCIAL]  SPAZIO ITALIANO\",\"segments.conversion_action_name\":\"Lead LP - V4\",\"segments.conversion_action_category\":\"SUBMIT_LEAD_FORM\",\"metrics.conversions\":11.0,\"metrics.all_conversions\":11.0},{\"campaign.id\":23852798524,\"campaign.name\":\"[SEARCH][PRESENCIAL]  SPAZIO ITALIANO\",\"segments.conversion_action_name\":\"WPP Site\",\"segments.conversion_action_category\":\"CONTACT\",\"metrics.conversions\":0.0,\"metrics.all_conversions\":1.0}]"
+        }
+      ],
+      "structuredContent": {
+        "result": [
+          {
+            "campaign.id": 23733693804,
+            "campaign.name": "[SEARCH][ONLINE] SPAZIO ITALIANO",
+            "segments.conversion_action_name": "Lead LP - V4",
+            "segments.conversion_action_category": "SUBMIT_LEAD_FORM",
+            "metrics.conversions": 10,
+            "metrics.all_conversions": 10
+          },
+          {
+            "campaign.id": 23852798524,
+            "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+            "segments.conversion_action_name": "Formulário Site",
+            "segments.conversion_action_category": "SUBMIT_LEAD_FORM",
+            "metrics.conversions": 1,
+            "metrics.all_conversions": 1
+          },
+          {
+            "campaign.id": 23852798524,
+            "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+            "segments.conversion_action_name": "Lead LP - V4",
+            "segments.conversion_action_category": "SUBMIT_LEAD_FORM",
+            "metrics.conversions": 11,
+            "metrics.all_conversions": 11
+          },
+          {
+            "campaign.id": 23852798524,
+            "campaign.name": "[SEARCH][PRESENCIAL]  SPAZIO ITALIANO",
+            "segments.conversion_action_name": "WPP Site",
+            "segments.conversion_action_category": "CONTACT",
+            "metrics.conversions": 0,
+            "metrics.all_conversions": 1
+          }
+        ]
+      },
+      "isError": false
+    }
+  },
+  "notes": [
+    "Meta results sum mixes 52 instant form leads and 33 website leads; does not prove 85 unique CRM contacts.",
+    "Meta generic lead field reports 214 attributed lead events, distinct from 85 configured campaign results.",
+    "Google conversions: 21 Lead LP - V4 plus 1 Formulário Site. WPP Site has 0 primary conversions and 1 all_conversion.",
+    "Platform attribution may overlap between Meta and Google. Do not sum to claim unique leads or sales.",
+    "Google monetary micros are divided by 1000000."
+  ]
+}

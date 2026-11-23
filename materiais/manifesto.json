@@ -1,0 +1,82 @@
+[
+  {
+    "source": "CHECK-IN/2026-08-27 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-08-27 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-09-03 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-09-03 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-09-10 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-09-10 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-09-17 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-09-17 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-09-24 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-09-24 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-10-01 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-10-01 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-10-09 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-10-09 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-10-15 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-10-15 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-10-22 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-10-22 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-10-29 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-10-29 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-11-06 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-11-06 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/2026-11-13 - Checkin Semanal - Spazio Italiano - Transcricao.txt",
+    "path": "materiais/check-in/2026-11-13 - Checkin Semanal - Spazio Italiano - Transcricao.txt"
+  },
+  {
+    "source": "CHECK-IN/AGENTS.md",
+    "path": "materiais/check-in/AGENTS.md"
+  },
+  {
+    "source": "CHECK-IN/CONTEXTO-RETOMADA.md",
+    "path": "materiais/check-in/CONTEXTO-RETOMADA.md"
+  },
+  {
+    "source": "CHECK-IN/SKILL.md",
+    "path": "materiais/check-in/SKILL.md"
+  },
+  {
+    "source": "EVIDENCIAS/Spazio-Italiano-Meta-Google-2026-10-01-a-2026-10-13.json",
+    "path": "materiais/evidencias/Spazio-Italiano-Meta-Google-2026-10-01-a-2026-10-13.json"
+  },
+  {
+    "source": "EVIDENCIAS/Spazio-Italiano-Meta-Google-2026-10-01-a-2026-10-13.txt",
+    "path": "materiais/evidencias/Spazio-Italiano-Meta-Google-2026-10-01-a-2026-10-13.txt"
+  },
+  {
+    "source": "dashboard-spazio-replica/public/update-instructions.md",
+    "path": "materiais/dashboard-spazio-replica/public/update-instructions.md"
+  },
+  {
+    "source": "dashboard-spazio-replica/sources.json",
+    "path": "materiais/dashboard-spazio-replica/sources.json"
+  },
+  {
+    "source": "dashboard-spazio-runtime/README.md",
+    "path": "materiais/dashboard-spazio-runtime/README.md"
+  }
+]

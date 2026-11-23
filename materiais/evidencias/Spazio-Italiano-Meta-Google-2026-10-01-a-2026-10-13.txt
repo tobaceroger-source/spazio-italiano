@@ -1,0 +1,60 @@
+EVIDÊNCIA DE MÍDIA PAGA — SPAZIO ITALIANO
+Período: 01/10/2026 a 13/10/2026 (inclusive).
+Consulta: 13/10/2026 às 11h14, horário de Brasília.
+Moeda: BRL. Fuso das duas contas: America/Sao_Paulo.
+O dia 13 está em andamento. Os dados podem ser atualizados pelas plataformas.
+
+RESUMO
+Meta Ads — investimento da conta: R$ 1.323,91.
+Meta Ads — 85 resultados das campanhas: 52 formulários nativos e 33 leads no site.
+Meta Ads — custo médio calculado por resultado: R$ 15,58.
+Meta Ads — impressões: 52.121; alcance: 28.043 contas Meta; cliques em links: 765.
+Google Ads — investimento: R$ 797,78; conversões: 22; custo por conversão: R$ 36,26.
+Google Ads — impressões: 1.499; cliques: 188.
+Investimento total das contas: R$ 2.121,69.
+
+META ADS — CONTA CA01 - Spazio Italiano (1287402738480607)
+🟢 C - [V01] [LP] [ONLINE]
+ID: 120244867137620603; status atual: ACTIVE; objetivo: OUTCOME_LEADS.
+Investimento: R$ 380,87; resultados: 26 (Leads no site); custo por resultado: R$ 14,65.
+Impressões: 9.879; cliques em links: 201.
+
+🟢 C - [V03] [FORM NATIVO] [PRESENCIAL]
+ID: 120246937657010603; status atual: ACTIVE; objetivo: OUTCOME_LEADS.
+Investimento: R$ 374,72; resultados: 24 (Leads (formulário)); custo por resultado: R$ 15,61.
+Impressões: 21.677; cliques em links: 234.
+
+🟢 C - [V08] [FORM NATIVO] [VIAGEM]
+ID: 120252292345680603; status atual: ACTIVE; objetivo: OUTCOME_LEADS.
+Investimento: R$ 369,58; resultados: 28 (Leads (formulário)); custo por resultado: R$ 13,20.
+Impressões: 15.025; cliques em links: 260.
+
+🟢 C - [V02] [LP] [RMK FECHADO]
+ID: 120246010948960603; status atual: ACTIVE; objetivo: OUTCOME_LEADS.
+Investimento: R$ 198,83; resultados: 7 (Leads no site); custo por resultado: R$ 28,40.
+Impressões: 5.541; cliques em links: 70.
+
+GOOGLE ADS — CONTA Spazio Italiano (715-709-0272)
+[SEARCH][ONLINE] SPAZIO ITALIANO
+ID: 23733693804; status atual: ENABLED.
+Investimento: R$ 411,51; conversões: 10; custo por conversão: R$ 41,15.
+Impressões: 973; cliques: 106.
+
+[SEARCH][PRESENCIAL]  SPAZIO ITALIANO
+ID: 23852798524; status atual: ENABLED.
+Investimento: R$ 386,27; conversões: 12; custo por conversão: R$ 32,19.
+Impressões: 526; cliques: 82.
+
+DEFINIÇÕES E CONFERÊNCIA
+Meta: a soma dos resultados exibidos por campanha é 85 (26 online, 24 presencial, 28 viagem e 7 remarketing). O campo genérico lead informa 214 eventos atribuídos, com definição diferente dos resultados configurados por campanha. Não foi tratado como 214 contatos únicos.
+Google: as 22 conversões são 21 de Lead LP - V4 e 1 de Formulário Site. WPP Site registra 1 em todas as conversões e 0 em conversões principais; não integra as 22.
+Investimento Meta: o retorno no nível da conta informa R$ 1.323,91; os retornos por campanha somam R$ 1.324,00. Diferença observada: R$ 0,09. O resumo usa o valor retornado no nível da conta e preserva os valores de cada campanha.
+Os resultados são eventos atribuídos pelas plataformas. Não comprovam contatos únicos, leads qualificados, matrículas ou vendas. Atribuições dos canais podem se sobrepor.
+Os custos por resultado apresentados por campanha seguem os retornos das plataformas; a média Meta do resumo é calculada dividindo o gasto da conta por 85.
+Google: valores monetários em micros foram divididos por 1.000.000.
+Todas as campanhas foram consultadas para o período, inclusive pausadas/removidas. O detalhamento exibe as que apresentaram gasto; as demais campanhas Google retornaram gasto e métricas zerados.
+
+FONTES
+Consulta ao vivo, somente leitura: Meta Ads MCP (ads_get_ad_entities) e Google Ads Canovas Mendes (search_search).
+Retornos originais e parâmetros do período preservados em Spazio-Italiano-Meta-Google-2026-10-01-a-2026-10-13.json.
+

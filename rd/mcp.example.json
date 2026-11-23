@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "rd-marketing": {
+      "type": "http",
+      "url": "https://mcp.rdstationmentor.com/marketing/mcp?key=CHAVE_PESSOAL_DO_NOVO_GESTOR"
+    },
+    "rd-crm": {
+      "type": "http",
+      "url": "https://mcp.rdstationmentor.com/crm/mcp?key=CHAVE_PESSOAL_DO_NOVO_GESTOR"
+    }
+  }
+}

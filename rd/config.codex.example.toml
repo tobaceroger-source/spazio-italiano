@@ -1,0 +1,14 @@
+# EXEMPLO: substituir cada URL pelo link completo gerado para o NOVO gestor.
+# Mesclar com a configuração local do Codex; manter o arquivo preenchido fora do Git.
+# Lista de ferramentas de consulta observadas em 23/11/2026. Não é uma restrição aplicada no servidor.
+
+[mcp_servers."rd-crm"]
+url = "https://mcp.rdstationmentor.com/crm/mcp?key=CHAVE_PESSOAL_DO_NOVO_GESTOR"
+enabled = true
+enabled_tools = ["campaigns_get","campaigns_list","contacts_get","contacts_list","custom_fields_get","custom_fields_list","deals_get","deals_list","deals_notes_list","deals_products_list","funnel_list","funnel_stages_get","funnel_stages_list","funnels_get","lost_reasons_get","lost_reasons_list","organizations_get","organizations_list","products_get","products_list","segments_get","segments_list","sources_get","sources_list","tasks_get","tasks_list","teams_get","teams_list","users_get","users_list"]
+
+[mcp_servers."rd-marketing"]
+url = "https://mcp.rdstationmentor.com/marketing/mcp?key=CHAVE_PESSOAL_DO_NOVO_GESTOR"
+enabled = true
+enabled_tools = ["assets_analytics","campaigns_search","contact_custom_fields_list","contact_funnel_stage_get","emails_by_campaign_analytics","emails_by_workflow_analytics","emails_search","forms_search","funnel_analytics","get_contact_by_id_email","get_contact_events","landing_pages_search","popups_search","segmentation_contacts_list","segmentation_list","workflow_leads_at_action_list","workflow_leads_exited_list","workflow_leads_started_list","workflows_search"]
+

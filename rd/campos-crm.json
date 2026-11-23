@@ -1,0 +1,146 @@
+{
+  "checked_at": "2026-11-23",
+  "method": "Consulta MCP custom_fields_list, primeira e última página coincidentes; sem dados de contatos.",
+  "fields": [
+    {
+      "id": "620af04d1d60b0000e3c0099",
+      "name": "Interesse",
+      "entity": "deal"
+    },
+    {
+      "id": "620aefac80a167000d9d2ad1",
+      "name": "origem",
+      "entity": "contact"
+    },
+    {
+      "id": "6234ec882f6eac000e3c7727",
+      "name": "Lei de Proteção de Dados",
+      "entity": "organization"
+    },
+    {
+      "id": "66115472c70a4a0011db6167",
+      "name": "Modalidade",
+      "entity": "deal"
+    },
+    {
+      "id": "620aefe5e49203000f22e15c",
+      "name": "cidade",
+      "entity": "contact"
+    },
+    {
+      "id": "623b35b2590234001828eb93",
+      "name": "TELEFONE COMERCIAL",
+      "entity": "organization"
+    },
+    {
+      "id": "6696c716c591b90021a88dd8",
+      "name": "FONTE_2",
+      "entity": "deal"
+    },
+    {
+      "id": "6238c39ef5b3ab0012e5498b",
+      "name": "Curso de Interesse",
+      "entity": "contact"
+    },
+    {
+      "id": "65f30774c86dba0017d40180",
+      "name": "VERSÃO",
+      "entity": "deal"
+    },
+    {
+      "id": "6238c3c88204de000f2dee52",
+      "name": "Data di Orineiro Contato",
+      "entity": "contact"
+    },
+    {
+      "id": "66e058ea94244c002547e551",
+      "name": "TESTE DE NÍVEL",
+      "entity": "deal"
+    },
+    {
+      "id": "62a39b76dfe88100122cbdb3",
+      "name": "Curso de Interesse",
+      "entity": "deal"
+    },
+    {
+      "id": "62c49e69e79220001cee7329",
+      "name": "Preparatorios CILS",
+      "entity": "deal"
+    },
+    {
+      "id": "625486298cc335000ca0bf62",
+      "name": "Meu Interesse:",
+      "entity": "deal"
+    },
+    {
+      "id": "62dedf454c77660010c1cbb7",
+      "name": "Curso de Interesse Regulares 2024",
+      "entity": "deal"
+    },
+    {
+      "id": "69d5498bfffb4c001dc8b0ab",
+      "name": "Qual o seu objetivo com o Italiano?",
+      "entity": "deal"
+    },
+    {
+      "id": "69efeeed45cba30013b292dd",
+      "name": "utm_campaign",
+      "entity": "deal"
+    },
+    {
+      "id": "69d549a98432710016de7e25",
+      "name": "O modelo online faz sentido para você?",
+      "entity": "deal"
+    },
+    {
+      "id": "69eff5cadbaa26001f3b3b07",
+      "name": "MQL",
+      "entity": "deal"
+    },
+    {
+      "id": "69efef12f8c9220024ea851a",
+      "name": "utm_content",
+      "entity": "deal"
+    },
+    {
+      "id": "69efef026ce34d00199c4e79",
+      "name": "utm_source",
+      "entity": "deal"
+    },
+    {
+      "id": "69efef338151770013008992",
+      "name": "utm_medium",
+      "entity": "deal"
+    },
+    {
+      "id": "6a0c9143e95c850014e92a86",
+      "name": "SOURCE",
+      "entity": "deal"
+    },
+    {
+      "id": "6a0caaab32470200138e9566",
+      "name": "CAMPAING",
+      "entity": "deal"
+    },
+    {
+      "id": "6a0caab86df7d400149555b8",
+      "name": "MEDIUM",
+      "entity": "deal"
+    },
+    {
+      "id": "6a0caac7916f3f001570dd67",
+      "name": "CONTENT",
+      "entity": "deal"
+    },
+    {
+      "id": "6a358ab19586be0021e0571c",
+      "name": "Principal objetivo com o italiano?",
+      "entity": "deal"
+    },
+    {
+      "id": "6a358acab9911a00273487f6",
+      "name": "Você procura investir em um curso de italiano ?",
+      "entity": "deal"
+    }
+  ]
+}
